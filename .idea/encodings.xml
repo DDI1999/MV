@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/IR/32/two_cla_best_grad.bin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IR/32/two_cla_best_grad.mapping" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IR/32/two_cla_best_grad.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IR/int8" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/IR/int8/res34_int8_985.bin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IR/int8/res34_int8_985.mapping" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IR/int8/res34_int8_985.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IR/int8/yolov7_97_int8.bin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IR/int8/yolov7_97_int8.mapping" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IR/int8/yolov7_97_int8.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IR/onnx/best.onnx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IR/onnx/best.pt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IR/onnx/best97.onnx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IR/onnx/deploy_tiny.onnx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IR/onnx/deploy_tiny.pt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IR/onnx/two_cla_best_grad.onnx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo01.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer/class_index.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer/class_infer_run.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer/convnext.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer/infer_onnx_class.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer/infer_runtime.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer/inference_IR.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer/lel.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_dete_Official_yolo/classes.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_dete_Official_yolo/infer_onnx.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_dete_Official_yolo/infer_xml.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_dete_Official_yolo/quant_yolov5.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_dete_Official_yolo/utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_dete_Official_yolo/utils/__init__.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_dete_Official_yolo/utils/activations.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_dete_Official_yolo/utils/add_nms.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_dete_Official_yolo/utils/autoanchor.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_dete_Official_yolo/utils/general.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_dete_Official_yolo/utils/google_utils.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_dete_Official_yolo/utils/loss.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_dete_Official_yolo/utils/metrics.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_dete_Official_yolo/utils/mydatasets.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_dete_Official_yolo/utils/plots.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_dete_Official_yolo/utils/torch_utils.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_dete_Official_yolo/utils/utils.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_dete_Official_yolo/yolo_main_onnx.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_detection/detection.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_detection/img/5315.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_detection/infer_onnx_yolov7.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_detection/infer_run_yolo.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_detection/inference_onnx.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_detection/model_data" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_detection/nets" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_detection/onnx_infer_yolo.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_detection/run_cv_infe.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_detection/test.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infer_detection/utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/intime_frame.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/onnx_inf_yolo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/window.ui" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

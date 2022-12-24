@@ -1,0 +1,363 @@
+<?xml version="1.0" ?>
+<mapping>
+	<map>
+		<framework name="392" out_port_id="392"/>
+		<IR id="435" name="Conv_39" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="356" out_port_id="356"/>
+		<IR id="263" name="Conv_10" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="407" out_port_id="407"/>
+		<IR id="472" name="Conv_50" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="374" out_port_id="374"/>
+		<IR id="338" name="Conv_24" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="242" out_port_id="242"/>
+		<IR id="289" name="Add_16" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="410" out_port_id="410"/>
+		<IR id="483" name="Conv_52" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="377" out_port_id="377"/>
+		<IR id="349" name="Conv_26" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="332" out_port_id="332"/>
+		<IR id="619" name="Add_79" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="347" out_port_id="347"/>
+		<IR id="228" name="Conv_3" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="359" out_port_id="359"/>
+		<IR id="276" name="Conv_13" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="269" out_port_id="269"/>
+		<IR id="387" name="Relu_35" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="341" out_port_id="341"/>
+		<IR id="647" name="GlobalAveragePool_86" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="325" out_port_id="325"/>
+		<IR id="595" name="Add_74" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="265" out_port_id="265"/>
+		<IR id="375" name="Add_32" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="243" out_port_id="243"/>
+		<IR id="290" name="Relu_17" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="278" out_port_id="278"/>
+		<IR id="411" name="Relu_41" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="302" out_port_id="302"/>
+		<IR id="509" name="Add_58" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="232" out_port_id="232"/>
+		<IR id="253" name="Relu_9" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="365" out_port_id="365"/>
+		<IR id="325" name="Conv_18" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="339" out_port_id="339"/>
+		<IR id="643" name="Add_84" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="299" out_port_id="299"/>
+		<IR id="497" name="Relu_56" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="222" out_port_id="222"/>
+		<IR id="21" name="MaxPool_2" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="282" out_port_id="282"/>
+		<IR id="438" name="Relu_44" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="296" out_port_id="296"/>
+		<IR id="486" name="Relu_54" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="input.1" out_port_id="input.1"/>
+		<IR id="8" name="input.1" out_port_id="0"/>
+	</map>
+	<map>
+		<framework name="431" out_port_id="431"/>
+		<IR id="593" name="Conv_70" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="266" out_port_id="266"/>
+		<IR id="376" name="Relu_33" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="316" out_port_id="316"/>
+		<IR id="557" name="Add_68" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="273" out_port_id="273"/>
+		<IR id="400" name="Relu_38" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="446" out_port_id="446"/>
+		<IR id="630" name="Conv_81" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="221" out_port_id="221"/>
+		<IR id="19" name="Relu_1" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="342" out_port_id="342"/>
+		<IR id="649" name="Flatten_87" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="289" out_port_id="289"/>
+		<IR id="462" name="Relu_49" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="437" out_port_id="437"/>
+		<IR id="579" name="Conv_73" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="272" out_port_id="272"/>
+		<IR id="399" name="Add_37" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="343" out_port_id="343"/>
+		<IR id="658" name="343" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="281" out_port_id="281"/>
+		<IR id="437" name="Add_43" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="309" out_port_id="309"/>
+		<IR id="533" name="Add_63" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="428" out_port_id="428"/>
+		<IR id="555" name="Conv_67" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="288" out_port_id="288"/>
+		<IR id="461" name="Add_48" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="449" out_port_id="449"/>
+		<IR id="641" name="Conv_83" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="285" out_port_id="285"/>
+		<IR id="449" name="Relu_46" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="303" out_port_id="303"/>
+		<IR id="510" name="Relu_59" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="413" out_port_id="413"/>
+		<IR id="496" name="Conv_55" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="389" out_port_id="389"/>
+		<IR id="397" name="Conv_36" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="322" out_port_id="322"/>
+		<IR id="569" name="Relu_72" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="383" out_port_id="383"/>
+		<IR id="373" name="Conv_31" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="251" out_port_id="251"/>
+		<IR id="327" name="Add_22" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="306" out_port_id="306"/>
+		<IR id="521" name="Relu_61" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="404" out_port_id="404"/>
+		<IR id="459" name="Conv_47" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="235" out_port_id="235"/>
+		<IR id="265" name="Add_11" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="422" out_port_id="422"/>
+		<IR id="531" name="Conv_62" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="425" out_port_id="425"/>
+		<IR id="544" name="Conv_65" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="362" out_port_id="362"/>
+		<IR id="287" name="Conv_15" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="225" out_port_id="225"/>
+		<IR id="229" name="Relu_4" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="310" out_port_id="310"/>
+		<IR id="534" name="Relu_64" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="416" out_port_id="416"/>
+		<IR id="507" name="Conv_57" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="262" out_port_id="262"/>
+		<IR id="363" name="Relu_30" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="295" out_port_id="295"/>
+		<IR id="485" name="Add_53" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="259" out_port_id="259"/>
+		<IR id="352" name="Relu_28" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="353" out_port_id="353"/>
+		<IR id="252" name="Conv_8" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="313" out_port_id="313"/>
+		<IR id="545" name="Relu_66" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="317" out_port_id="317"/>
+		<IR id="558" name="Relu_69" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="228" out_port_id="228"/>
+		<IR id="241" name="Add_6" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="395" out_port_id="395"/>
+		<IR id="410" name="Conv_40" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="380" out_port_id="380"/>
+		<IR id="362" name="Conv_29" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="368" out_port_id="368"/>
+		<IR id="300" name="Conv_19" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="401" out_port_id="401"/>
+		<IR id="448" name="Conv_45" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="440" out_port_id="440"/>
+		<IR id="606" name="Conv_76" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="252" out_port_id="252"/>
+		<IR id="328" name="Relu_23" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="239" out_port_id="239"/>
+		<IR id="277" name="Relu_14" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="371" out_port_id="371"/>
+		<IR id="311" name="Conv_21" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="329" out_port_id="329"/>
+		<IR id="607" name="Relu_77" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="398" out_port_id="398"/>
+		<IR id="421" name="Conv_42" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="350" out_port_id="350"/>
+		<IR id="239" name="Conv_5" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="229" out_port_id="229"/>
+		<IR id="242" name="Relu_7" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="255" out_port_id="255"/>
+		<IR id="339" name="Relu_25" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="443" out_port_id="443"/>
+		<IR id="617" name="Conv_78" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="326" out_port_id="326"/>
+		<IR id="596" name="Relu_75" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="344" out_port_id="344"/>
+		<IR id="18" name="Conv_0" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="258" out_port_id="258"/>
+		<IR id="351" name="Add_27" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="419" out_port_id="419"/>
+		<IR id="520" name="Conv_60" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="248" out_port_id="248"/>
+		<IR id="301" name="Relu_20" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="434" out_port_id="434"/>
+		<IR id="568" name="Conv_71" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="386" out_port_id="386"/>
+		<IR id="386" name="Conv_34" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="340" out_port_id="340"/>
+		<IR id="644" name="Relu_85" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="336" out_port_id="336"/>
+		<IR id="631" name="Relu_82" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="236" out_port_id="236"/>
+		<IR id="266" name="Relu_12" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="333" out_port_id="333"/>
+		<IR id="620" name="Relu_80" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="292" out_port_id="292"/>
+		<IR id="473" name="Relu_51" out_port_id="1"/>
+	</map>
+</mapping>
